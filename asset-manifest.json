@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fire-Chat/static/css/main.6abed274.chunk.css",
+    "main.js": "/Fire-Chat/static/js/main.94101357.chunk.js",
+    "main.js.map": "/Fire-Chat/static/js/main.94101357.chunk.js.map",
+    "runtime-main.js": "/Fire-Chat/static/js/runtime-main.1ff3c0ab.js",
+    "runtime-main.js.map": "/Fire-Chat/static/js/runtime-main.1ff3c0ab.js.map",
+    "static/js/2.fadb46eb.chunk.js": "/Fire-Chat/static/js/2.fadb46eb.chunk.js",
+    "static/js/2.fadb46eb.chunk.js.map": "/Fire-Chat/static/js/2.fadb46eb.chunk.js.map",
+    "index.html": "/Fire-Chat/index.html",
+    "static/css/main.6abed274.chunk.css.map": "/Fire-Chat/static/css/main.6abed274.chunk.css.map",
+    "static/js/2.fadb46eb.chunk.js.LICENSE.txt": "/Fire-Chat/static/js/2.fadb46eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ff3c0ab.js",
+    "static/js/2.fadb46eb.chunk.js",
+    "static/css/main.6abed274.chunk.css",
+    "static/js/main.94101357.chunk.js"
+  ]
+}
